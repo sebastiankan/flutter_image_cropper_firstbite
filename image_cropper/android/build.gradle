@@ -38,6 +38,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        implementation 'com.github.yalantis:ucrop:2.2.9'
+        implementation 'com.github.yalantis:ucrop:3.11.2'
     }
 }
